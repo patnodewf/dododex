@@ -7523,5 +7523,10 @@
 "t":"Skins",
 "id":"PrimalItemSkin_TopHat_Summer_C",
 "bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TopHat_Summer.PrimalItemSkin_TopHat_Summer"
+},{
+"t":"Dinos",
+"label":"Deinonychus",
+"id":"Deinonychus_Character_BP_C",
+"bp":"ScorchedEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP"
 }
 ]}
